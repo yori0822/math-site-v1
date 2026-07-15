@@ -25,3 +25,10 @@ section{margin-top:18px}
   .site-header{border-bottom-color:#22304a}
   .solution{color:#4ade80}
 }
+section{margin-top:40px}
+.exercise + .exercise{margin-top:16px}
+.site-header{
+  background-image:linear-gradient(#e6eefc 1px,transparent 1px),linear-gradient(90deg,#e6eefc 1px,transparent 1px);
+  background-size:20px 20px;
+}
+.site-footer{border-top:1px solid #e6eefc;font-size:.85rem}
